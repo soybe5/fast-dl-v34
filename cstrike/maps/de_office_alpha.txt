@@ -1,0 +1,18 @@
+The Office Complex - Bomb Defuse
+
+Counter-Terrorists: 
+- Enter the office building and 
+  prevent terrorists from placing 
+  the bomb.
+
+Terrorists: 
+- Place the bomb in dumbster.
+
+Other Notes: 
+- 18x18 players in map.
+
+
+Creator : [HC\ENV]HUNTER
+I/O     : [HC\ENV]SAMAEL
+Textures: standart Valve textures
+Models  : standart Valve models
