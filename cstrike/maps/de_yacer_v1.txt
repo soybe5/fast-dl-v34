@@ -1,0 +1,36 @@
+          
+                ********** de_yacer_v1 **********
+
+
+
+ -This is a bomb diffuse map for counter strike SOURCE!
+
+
+    -This map is a de_dust like, nothing very original here, just try a new layout.
+
+
+
+Mail me at " bazilix@wanadoo.fr "   if you want me to make some modification or 
+
+transformation to other mode.   
+
+
+installation:
+-------------
+
+
+                        de_yacer_v1.bsp
+
+                        de_yacer_v1.nav
+
+
+     goes in: C:\Valve\Steam\SteamApps\YOUR ACCOUNT\counter-strike source\cstrike\maps
+
+
+
+
+                                                                                PaPaGaLoS
+
+
+
+             
